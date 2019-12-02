@@ -12,5 +12,8 @@ sdkdiff.py TestSDK_v1 TestSDK_v2
 -45288        80801624     Total
 ```
 
+## blog
+[blog: https://wellphone.me/post/2018/how_reduce_ios_sdk_file_size/](https://wellphone.me/post/2018/how_reduce_ios_sdk_file_size/)
+
 ## TODO
 ### 脚本里使用size命令详细比对不同版本的SDK中代码段、数据段的大小增量
